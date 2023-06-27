@@ -1,0 +1,6 @@
+### Obsidian ###
+# config dir
+.obsidian/
+
+# private notes
+*.env.*
